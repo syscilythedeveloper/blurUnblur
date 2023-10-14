@@ -1,4 +1,4 @@
-##Blur/Reblur Images Revealer
+Blur/Reblur Images Revealer
 
 
 Overview:
